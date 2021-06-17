@@ -1,0 +1,7 @@
+print("My Last Farewell")
+print("by your mom")
+print("Farewell, my adored gay, region of the sun caressed,")
+print("Pearl of the Orient Sea, our Eden lost,")
+print("With gladness I give you my life, sad and repressed;")
+print("And were it more brilliant, more fresh and at its best,")
+print("I would still give it to you for your welfare at most.")
